@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/WAELisGeekin/LeetCode-Solu/tree/master/0027-remove-element) |
 | [0051-n-queens](https://github.com/WAELisGeekin/LeetCode-Solu/tree/master/0051-n-queens) |
+| [0136-single-number](https://github.com/WAELisGeekin/LeetCode-Solu/tree/master/0136-single-number) |
 | [1929-concatenation-of-array](https://github.com/WAELisGeekin/LeetCode-Solu/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/WAELisGeekin/LeetCode-Solu/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/WAELisGeekin/LeetCode-Solu/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
