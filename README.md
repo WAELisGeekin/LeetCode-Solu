@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/WAELisGeekin/LeetCode-Solu/tree/master/1929-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/WAELisGeekin/LeetCode-Solu/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
