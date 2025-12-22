@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/WAELisGeekin/LeetCode-Solu/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/WAELisGeekin/LeetCode-Solu/tree/master/0027-remove-element) |
 | [0051-n-queens](https://github.com/WAELisGeekin/LeetCode-Solu/tree/master/0051-n-queens) |
 | [0136-single-number](https://github.com/WAELisGeekin/LeetCode-Solu/tree/master/0136-single-number) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/WAELisGeekin/LeetCode-Solu/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/WAELisGeekin/LeetCode-Solu/tree/master/0014-longest-common-prefix) |
 ## Linked List
 |  |
 | ------- |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/WAELisGeekin/LeetCode-Solu/tree/master/0136-single-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/WAELisGeekin/LeetCode-Solu/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
