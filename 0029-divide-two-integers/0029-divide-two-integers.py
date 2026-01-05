@@ -31,7 +31,7 @@ class Solution(object):
             temp = b
             multiple = 1
 
-            # Double until too large
+           
             while a >= (temp << 1):
                 temp <<= 1
                 multiple <<= 1
