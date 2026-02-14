@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/WAELisGeekin/LeetCode-Solu/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/WAELisGeekin/LeetCode-Solu/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/WAELisGeekin/LeetCode-Solu/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/WAELisGeekin/LeetCode-Solu/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/WAELisGeekin/LeetCode-Solu/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/WAELisGeekin/LeetCode-Solu/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/WAELisGeekin/LeetCode-Solu/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/WAELisGeekin/LeetCode-Solu/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/WAELisGeekin/LeetCode-Solu/tree/master/0509-fibonacci-number) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/WAELisGeekin/LeetCode-Solu/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/WAELisGeekin/LeetCode-Solu/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/WAELisGeekin/LeetCode-Solu/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/WAELisGeekin/LeetCode-Solu/tree/master/0067-add-binary) |
 ## Linked List
 |  |
 | ------- |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/WAELisGeekin/LeetCode-Solu/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/WAELisGeekin/LeetCode-Solu/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/WAELisGeekin/LeetCode-Solu/tree/master/0136-single-number) |
 ## Trie
 |  |
